@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "firstName": "john",
+      "lastName": "gilbert",
+      "birthDate": "2021-07-06T21:00:00.000Z",
+      "isActive": "true",
+      "id": 1
+    },
+    {
+      "firstName": "justin",
+      "lastName": "wesley",
+      "birthDate": "1969-03-19T22:00:00.000Z",
+      "isActive": "false",
+      "id": 2
+    },
+    {
+      "id": 5,
+      "firstName": "tala",
+      "lastName": "al samans",
+      "birthDate": "2021-07-20T18:51:50.916Z",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "firstName": "wahib",
+      "lastName": "moualem",
+      "birthDate": "2021-07-19T21:00:00.000Z",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "firstName": "nezar",
+      "lastName": "al saman",
+      "birthDate": "2021-07-20T19:58:25.429Z",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "firstName": "samar",
+      "lastName": "al mahmalji",
+      "birthDate": "1997-07-15T21:00:00.000Z",
+      "isActive": true
+    }
+  ]
+}

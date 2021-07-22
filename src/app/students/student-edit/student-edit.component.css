@@ -1,0 +1,17 @@
+ .Card {
+    margin:20px 40px 20px 20px;
+  }
+ 
+button{
+    margin: 8px 8px 8px 0;
+}
+
+.container{
+    margin-left: 20px;
+}
+.subtitle{
+    padding-top: 10px;
+    font-size: large;
+     font-style: italic;
+     color: black;
+}
