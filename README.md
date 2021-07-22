@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
+## Requirement 
+npm install Json-server to load data from db.json file.
+npm install concurrently to run ng serve and json server.
 ## Run Application
 
 Run `npm Start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files and the file dbjson.
